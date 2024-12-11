@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-11T08:53:37 IST" name="Default suite" finished-at="2024-12-11T08:53:42 IST" duration-ms="5464">
+  <suite started-at="2024-12-11T22:25:37 IST" name="Default suite" finished-at="2024-12-11T22:25:41 IST" duration-ms="3635">
     <groups>
     </groups>
-    <test started-at="2024-12-11T08:53:37 IST" name="Default test" finished-at="2024-12-11T08:53:42 IST" duration-ms="5464">
+    <test started-at="2024-12-11T22:25:37 IST" name="Default test" finished-at="2024-12-11T22:25:41 IST" duration-ms="3635">
       <class name="testlayer.LoginPageTest">
-        <test-method is-config="true" signature="driverinitialization()[pri:0, instance:testlayer.LoginPageTest@206a70ef]" started-at="2024-12-11T08:53:37 IST" name="driverinitialization" finished-at="2024-12-11T08:53:41 IST" duration-ms="4435" status="PASS">
+        <test-method is-config="true" signature="driverinitialization()[pri:0, instance:testlayer.LoginPageTest@206a70ef]" started-at="2024-12-11T22:25:37 IST" name="driverinitialization" finished-at="2024-12-11T22:25:40 IST" duration-ms="2780" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- driverinitialization -->
-        <test-method signature="loginTest()[pri:0, instance:testlayer.LoginPageTest@206a70ef]" started-at="2024-12-11T08:53:41 IST" name="loginTest" finished-at="2024-12-11T08:53:42 IST" duration-ms="734" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:testlayer.LoginPageTest@206a70ef]" started-at="2024-12-11T22:25:40 IST" name="loginTest" finished-at="2024-12-11T22:25:41 IST" duration-ms="660" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="quitDriver()[pri:0, instance:testlayer.LoginPageTest@206a70ef]" started-at="2024-12-11T08:53:42 IST" name="quitDriver" finished-at="2024-12-11T08:53:42 IST" duration-ms="231" status="PASS">
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:testlayer.LoginPageTest@206a70ef]" started-at="2024-12-11T22:25:41 IST" name="quitDriver" finished-at="2024-12-11T22:25:41 IST" duration-ms="151" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
